@@ -60,3 +60,21 @@ Also see [jev-internal-links](https://github.com/NicoSKOOL/jev-internal-links) a
 ## License
 
 MIT
+
+---
+
+## Part of AI Ranking
+
+This is one of the free tools from **AI Ranking**, the community where we learn how to get businesses found on Google and recommended by AI (ChatGPT, Google AI Overviews, Perplexity).
+
+**Free community:** [skool.com/ai-ranking-free](https://skool.com/ai-ranking-free)  
+Every free skill in one place, with setup guides.
+
+**Premium:** [skool.com/ai-ranking](https://skool.com/ai-ranking)  
+For when you want help, not just tools:
+- Support when a skill or a site gets stuck
+- 1-1 sessions
+- Live Q&A calls
+- The full training on how to rank in AI search
+
+Built by [Nico Gorrono](https://airankingskool.com/about/)
